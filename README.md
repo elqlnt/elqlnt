@@ -1,0 +1,2 @@
+- Beginner Application Programmer
+  - C++/javascript and Python(a little)
