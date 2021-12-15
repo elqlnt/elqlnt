@@ -1,2 +1,4 @@
 - Beginner Application Programmer
   - C++/javascript and Python(a little)
+  - Now studying...
+    - Vue.js with Typescript
