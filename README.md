@@ -1,4 +1,5 @@
 - Beginner Application Programmer
+  - frontend/backend
   - C++/javascript and Python(a little)
   - Now studying...
     - Vue.js
