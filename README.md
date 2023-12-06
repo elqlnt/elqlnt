@@ -1,7 +1,14 @@
 - Beginner Application Programmer
   - frontend/backend
-  - C++/javascript and Python(a little)
+    - main
+      - JavaScript(Vue.js)
+      - C#(Entity Framework, SQL Server)
   - Now studying...
-    - Vue.js
-    - C#
+    - Go
+    - React with TypeScript
+    - Rust
     - SQL
+  - A little
+    - C
+    - C++
+    - Python
